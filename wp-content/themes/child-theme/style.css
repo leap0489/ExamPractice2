@@ -1,0 +1,24 @@
+/*
+Theme Name:     Child theme
+Description:    
+Author:         admin
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+h1 {
+	display: none;
+}
+
+h2 {
+	color: #568250;
+}
+
+p {
+	color: #1E2F1C;
+}
+
+body {
+	background-color: #F1F6F0
+}
