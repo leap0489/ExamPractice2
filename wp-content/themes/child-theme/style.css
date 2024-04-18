@@ -20,8 +20,16 @@ p {
 }
 
 body {
-	background-color: #F1F6F0
+	background-color: #F1F6F0;
 }
+
 li {
 	color: #0A3504;
+}
+
+.btn {
+	background-color: #ABD5A4;
+	padding: 16px 24px;
+	border-radius: 200px;
+	margin:8px;
 }
