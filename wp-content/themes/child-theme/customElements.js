@@ -8,7 +8,7 @@ customElements.define("x-year", CopyrightYear);
 
 class TwoSidedMarket extends HTMLElement{
     connectedCallback(){
-        this.innerHTML = `<a href="menu" class="btn">Browse our menu</a>&nbsp;<a href="reservations" class="btn">Reserve a table </a>`;
+        this.innerHTML = `<a href="menu" class="btn">Browse our menu</a>&nbsp;<a href="reservation" class="btn">Reserve a table </a>`;
     }
 }
 
